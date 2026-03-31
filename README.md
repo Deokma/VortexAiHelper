@@ -1,10 +1,5 @@
 # 🎮 VortexAI Helper
 
-> Smart AI-powered assistant for automating mod downloads via the Vortex Mod Manager.
-> Learns from your actions — so you only have to click once.
-
----
-
 ## 📖 What is this?
 
 Downloading mods through Vortex often involves the same repetitive sequence of clicks: hit **Download Manually** in Vortex, then confirm a couple of prompts in the browser. VortexAI Helper records that sequence once, trains a small neural network on it, and then replicates it automatically — forever, if you want.
